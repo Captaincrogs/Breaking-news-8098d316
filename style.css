@@ -1,0 +1,35 @@
+.navbar {
+
+    
+          display: flex;
+          flex-wrap: nowrap;
+          background-color: #e67e00;
+          align-content: space-between;
+          text-align: center;
+          
+}
+.navbar > p {  
+
+     width: 300px;
+     margin: 30px;
+     text-align: center;
+     line-height: 5px;
+     font-size: 20px;
+    
+   }
+
+   .content{
+    margin-top: 20px;
+    border: 5px solid rgb(111,41,97);
+    border-radius: .5em;
+    background-color: blanchedalmond; 
+  
+    }
+.content>h1{
+
+  text-align: center;
+}
+.content>p{
+  text-align: center;
+}
+   
